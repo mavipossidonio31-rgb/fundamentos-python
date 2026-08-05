@@ -1,0 +1,3 @@
+
+maiordeidade = True
+print(maiordeidade)
