@@ -1,4 +1,3 @@
-//que eu faltei//
 nome = 'Renan'
 
 print('Olá, meu nome é: ' + nome)
