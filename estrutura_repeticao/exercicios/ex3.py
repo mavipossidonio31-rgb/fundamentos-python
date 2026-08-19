@@ -1,0 +1,10 @@
+
+def mostrar_pares(numero):
+    for i in range(1, numero + 1):
+        if i % 2 == 0:
+            print(i)
+
+
+numero = int(input("digite um número: "))
+
+mostrar_pares(numero)
